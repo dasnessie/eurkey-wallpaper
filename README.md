@@ -1,6 +1,6 @@
 # Eurkey-Wallpaper
 
-A minimalist wallpaper showing the EurKey keyboard layout, so you can easily reference it. The color matches the [i3](https://i3wm.org/) default color. The inkscape svg has several layers with different options for Windows, Linux, Arch Linux, and NixOS keys. Choose the one you like and generate your wallpaper to your display dimensions! Alternatively, if you have trouble with that, you can also use my sample png.
+A minimalist wallpaper showing the EurKey keyboard layout, so you can easily reference it. The color matches the [i3](https://i3wm.org/) default color. The [inkscape svg](eurkey-layout.svg) has several layers with different options for Windows, Linux, Arch Linux, and NixOS keys. Choose the one you like and generate your wallpaper to your display dimensions! Alternatively, if you have trouble with that, you can also use my [sample png](eurkey-layout-nixos-2256x1504.png).
 
 ## Sources 
 
