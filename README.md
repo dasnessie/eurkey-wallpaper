@@ -8,3 +8,4 @@ A minimalist wallpaper showing the EurKey keyboard layout, so you can easily ref
 - Tux logo by gg3po, Iwan Gabovitch - Tux Mono SVG, based on File:NewTux.svg by gg3po which is based on File:Tux.png byLarry Ewing, GPL, https://commons.wikimedia.org/w/index.php?curid=48629266
 - Arch Linux logo by the Arch Linux community, licensed under the Arch Linux Trademark policy, https://archlinux.org/art/. This project is not approved, sponsored, or affiliated with Arch Linux.
 - NixOS logo by ryantm and the NixOS community, https://github.com/NixOS/nixos-artwork/blob/master/logo/nixos-white.svg, licensed under CC-BY.
+- Debian logo from https://www.debian.org/logos/index.en.html, licensed under LGPL v3
